@@ -7,21 +7,21 @@ const projects = [
     id: 1,
     title: "Mati Mitra : A soil sensing app.",
     description: "A powerful tool for farmers using IOT and AI.",
-    image: "src/assets/portfolio-1.png",
+    image: "public/assets/portfolio-1.png",
     link: "https://mati-mitra.vercel.app/"
   },
   {
     id: 2,
     title: "Tomato : Food Delivery App",
     description: "A Food delivery App for easier ordering of food.",
-    image: "src/assets/portfolio-2.png",
+    image: "public/assets/portfolio-2.png",
     link: "https://food-delivery-app-f9r4.vercel.app/"
   },
   {
     id: 3,
     title: "Medical Diagnosis Using AI",
     description: "Health care app to diagnosis diseases.",
-    image: "src/assets/portfolio 3.png",
+    image: "public/assets/portfolio 3.png",
     link: "https://medical-diagnosis-by-using-ai.streamlit.app/"
   }
 ];
