@@ -12,13 +12,28 @@ const projects = [
   },
   {
     id: 2,
+    title: "NASA APOD Explorer",
+    description: "A responsive React application that fetches NASA's Astronomy Picture of the Day (APOD) with date-based browsing and a dynamic gallery.",
+    image: "/assets/portfolio 4.png",
+    link: "https://nasa-apod-explorer-ejyr.onrender.com"
+  },
+  {
+    id: 3,
+    title: "OMDB Movie Explorer",
+    description: "A full-stack movie search app using OMDB API with favorites, movie details, and a modern Tailwind-styled UI.",
+    image: "/assets/portfolio 5.png",
+    link: "https://omdb-movie-explorer-frontend.onrender.com"
+
+  },
+  {
+    id: 4,
     title: "Tomato : Food Delivery App",
     description: "A Food delivery App for easier ordering of food.",
     image: "/assets/portfolio-2.png",
     link: "https://food-delivery-app-f9r4.vercel.app/"
   },
   {
-    id: 3,
+    id: 5,
     title: "Medical Diagnosis Using AI",
     description: "Health care app to diagnosis diseases.",
     image: "/assets/portfolio 3.png",
