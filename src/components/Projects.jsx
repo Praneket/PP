@@ -41,6 +41,13 @@ const projects = [
   },
   {
     id: 6,
+    title: "Carbon Footprint Calculator",
+    description: "Created a Carbon Footprint Calculator to analyze user habits, estimate emissions, and generate actionable eco-friendly insights with dashboard visualization.",
+    image: "/assets/portfolio 7.png",
+    link: "https://ecotrack-c786.onrender.com/"
+  },
+  {
+    id: 7,
     title: "NASA APOD Explorer",
     description: "A responsive React application that fetches NASA's Astronomy Picture of the Day (APOD) with date-based browsing and a dynamic gallery.",
     image: "/assets/portfolio 4.png",
