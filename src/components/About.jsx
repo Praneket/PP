@@ -11,7 +11,7 @@ export default function About() {
         transition={{ type: "spring", stiffness: 50, damping: 10 }}
         viewport={{ once: true }}
       >
-        <img src="/assets/profile photo circle.png" alt="About Me Illustration" />
+        <img src="/assets/profile pic 1.jpeg" alt="About Me Illustration" />
       </motion.div>
 
       <motion.div

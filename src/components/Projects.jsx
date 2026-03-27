@@ -12,13 +12,20 @@ const projects = [
   },
   {
     id: 2,
-    title: "NASA APOD Explorer",
-    description: "A responsive React application that fetches NASA's Astronomy Picture of the Day (APOD) with date-based browsing and a dynamic gallery.",
-    image: "/assets/portfolio 4.png",
-    link: "https://nasa-apod-explorer-ejyr.onrender.com"
+    title: "Google Ads Performance Analyzer ",
+    description: "Google Ads Performance Analyzer helps to process campaign datasets and generate actionable insights (CTR, CPC, ROI), improving decision-making for ad optimization.",
+    image: "/assets/portfolio 6.png",
+    link: "https://ads-performance-analyzer.vercel.app/"
   },
   {
     id: 3,
+    title: "Tomato : Food Delivery App",
+    description: "A Food delivery App for easier ordering of food.",
+    image: "/assets/portfolio-2.png",
+    link: "https://food-delivery-app-f9r4.vercel.app/"
+  },
+  {
+    id: 4,
     title: "OMDB Movie Explorer",
     description: "A full-stack movie search app using OMDB API with favorites, movie details, and a modern Tailwind-styled UI.",
     image: "/assets/portfolio 5.png",
@@ -26,18 +33,18 @@ const projects = [
 
   },
   {
-    id: 4,
-    title: "Tomato : Food Delivery App",
-    description: "A Food delivery App for easier ordering of food.",
-    image: "/assets/portfolio-2.png",
-    link: "https://food-delivery-app-f9r4.vercel.app/"
-  },
-  {
     id: 5,
     title: "Medical Diagnosis Using AI",
     description: "Health care app to diagnosis diseases.",
     image: "/assets/portfolio 3.png",
     link: "https://medical-diagnosis-by-using-ai.streamlit.app/"
+  },
+  {
+    id: 6,
+    title: "NASA APOD Explorer",
+    description: "A responsive React application that fetches NASA's Astronomy Picture of the Day (APOD) with date-based browsing and a dynamic gallery.",
+    image: "/assets/portfolio 4.png",
+    link: "https://nasa-apod-explorer-ejyr.onrender.com"
   }
 ];
 
